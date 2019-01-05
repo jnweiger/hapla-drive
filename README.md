@@ -1,4 +1,4 @@
-hapla_drive
+hapla-drive
 ===========
 
 A harmonic planetary drive
